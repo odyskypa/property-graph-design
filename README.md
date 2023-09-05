@@ -1,4 +1,4 @@
-# Property Graph Design for data about Research Publications
+# Property Graph Design for Research Publications
 Project of Semantic Data Management (SDM) Course for the `Master in Data Science` Program of Universitat Politècnica de Catalunya (UPC)
 
 ***
